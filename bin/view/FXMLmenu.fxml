@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="544.0" prefWidth="902.0" style="-fx-border-color: #2e5cb8;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="544.0" prefWidth="205.0" style="-fx-background-color: #2e5cb8;">
+         <effect>
+            <DropShadow />
+         </effect>
+      </VBox>
+   </children>
+   <effect>
+      <DropShadow />
+   </effect>
+</AnchorPane>
